@@ -20,7 +20,7 @@ body {
 }
 
 .gcontainer {
-    min-width: 29rem;
+    min-width: 32rem;
     width: 40%;
     background-color: rgb(20, 7, 76);
     padding: 1rem;
@@ -64,7 +64,7 @@ img {
 .wapons {
     min-height: 10rem;
     margin-bottom: 0.1rem;
-    margin-left: 5rem;
+    margin-left: 3rem;
 }
 
 .jpg {
@@ -85,7 +85,7 @@ img {
     background-color: blueviolet;
     color: white;
     margin-bottom: 1rem;
-    margin-left: 13rem;
+    margin-left: 11rem;
 
 }
 
