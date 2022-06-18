@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    font-size: 15px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(2, 0, 36);
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 1%, rgba(42, 42, 66, 1) 15%, rgba(106, 117, 231, 1) 49%, rgba(25, 60, 99, 1) 86%, rgba(1, 12, 14, 1) 100%);
+    color: white;
+    text-shadow: 5px 5px 5px white;
+    height: 90vh;
+}
+
+.gcontainer {
+    min-width: 29rem;
+    width: 40%;
+    background-color: rgb(20, 7, 76);
+    padding: 1rem;
+    min-height: 20rem;
+    margin: 4.3rem auto;
+    border-radius: 1.5rem 1.5rem 0rem 0rem;
+}
+
+.fcontainer {
+    min-height: 10rem;
+    margin-bottom: 1rem;
+}
+
+.btn {
+    display: inline-block;
+    width: 7rem;
+    height: 7rem;
+    margin: 0 1rem;
+    margin: 0 0.4rem;
+    box-shadow: 0.4rem 0.4rem 0.6rem white;
+    border-radius: 30px;
+}
+
+img {
+    width: 70%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 30px;
+}
+
+.ccontainer {
+    width: 48%;
+    float: left;
+}
+
+.score {
+    width: 48%;
+    float: right;
+}
+
+.wapons {
+    min-height: 10rem;
+    margin-bottom: 0.1rem;
+    margin-left: 1.5rem;
+}
+
+.jpg {
+    width: 100%;
+}
+
+.btn:hover {
+    width: 7.1rem;
+    height: 7.1rem;
+    cursor: pointer;
+}
+
+.playbtn {
+    min-width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0.1rem 0.1rem 0.3rem rgb(216, 175, 216);
+    background-color: blueviolet;
+    color: white;
+    margin-bottom: 1rem;
+    margin-left: 9rem;
+
+}
+
+.playbtn:hover {
+    width: 8.1rem;
+    height: 2.1rem;
+    cursor: pointer;
+}
